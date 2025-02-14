@@ -1,6 +1,6 @@
 # WHAT IS CODED MAY NEVER DIE
 
-copy the code  
-open https://svgartista.net  
-paste the code  
-watch the magic  
+1. copy the code  
+2. open https://svgartista.net  
+3. paste the code  
+4. watch the magic  
